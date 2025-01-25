@@ -1,4 +1,13 @@
-pandas
-textblobs
-nltk
-emoji
+torch
+torchvision
+torchaudio
+torchtext
+datasets
+tokenizers
+torchmetrics
+tensorboard
+altair
+wandb
+spacy
+torchinfo
+scikit-learn
