@@ -11,3 +11,5 @@ wandb
 spacy
 torchinfo
 scikit-learn
+langchain-core
+langchain-community
