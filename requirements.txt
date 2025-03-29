@@ -17,3 +17,10 @@ langchain_groq
 bs4
 sentence-transformers
 faiss-cpu
+langchain_google_genai 
+langchain_anthropic 
+langchain_huggingface
+langchain_openai
+pypdf
+grandalf
+pinecone-client
